@@ -1,4 +1,5 @@
-# 🧮 Calculadora Web
+# 🧮 Calculadora Web  -----> [acesse](https://calculadora-bb28ln73x-maianebauers-projects.vercel.app/)
+
 
 Este é um projeto de uma **calculadora** simples desenvolvida usando **HTML**, **CSS** e **JavaScript**. O objetivo do projeto é criar uma interface interativa e funcional, permitindo realizar cálculos básicos diretamente no navegador.
 
@@ -43,4 +44,5 @@ Durante o desenvolvimento, cada commit foi feito de forma clara e objetiva. Aqui
 1. Clone este repositório:
    ```bash
    git clone https://github.com/MaianeBauer/calculadora
+
    
